@@ -1,7 +1,7 @@
 # Pong
 **The classic Atari arcade game, built using Pygame**
 
-    Multi-Player & Single-Player mode
+    Multi-Player & single-Player modes
     Lots of bugs
 
 # Instructions & Controls
