@@ -1,13 +1,3 @@
-"""
-Pong
-Tuesday, 13th June 2017
-
-Harsh Rajmachikar
-https://github.com/hvrc
-harshavardhan@rajmachikar.com
-
-"""
-
 # imporing pygame, time and random
 import pygame, sys, time
 from random import randrange, choice
