@@ -6,15 +6,15 @@ from random import randrange, choice
 from global_variables import *
 
 # importing Classes
-from Class_Player import *
+from Player import *
 
-from Class_Enemy import *
+from Enemy import *
 
-from Class_Ball import *
+from Ball import *
 
-from Class_Menus import *
+from Menus import *
 
-from Class_Items import *
+from Items import *
 
 # Runs fundamental code
 class main(Player, Enemy, Ball, Menus, Items):
